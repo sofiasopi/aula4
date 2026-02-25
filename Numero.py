@@ -1,3 +1,5 @@
+print("Exercício 1")
+
 #Número 1
 
 salario_mensal = float(input("Informe seu salário mensal: "))
